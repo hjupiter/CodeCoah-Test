@@ -1,0 +1,12 @@
+https://platform.netbeans.org/tutorials/nbm-google.html
+http://wiki.netbeans.org/IntroNetBeansPluginDev
+http://wiki.netbeans.org/FaqWhatIsUserdir
+http://forums.netbeans.org/post-74530.html
+https://platform.netbeans.org/tutorials/nbm-projectsamples.html
+
+http://avbravo.blogspot.com/2006/08/creando-un-proyecto-de-modulos-plug-in.html
+https://code.google.com/p/rolgps/wiki/HelloWorldPlugin
+
+http://users.dsic.upv.es/~pginer/download/tutoriales.pdf
+http://www.adictosaltrabajo.com/tutoriales/develop-eclipse-plugin/
+http://wiki.bukkit.org/Plugin_Tutorial/es
