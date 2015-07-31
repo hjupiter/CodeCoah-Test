@@ -10,3 +10,6 @@ https://code.google.com/p/rolgps/wiki/HelloWorldPlugin
 http://users.dsic.upv.es/~pginer/download/tutoriales.pdf
 http://www.adictosaltrabajo.com/tutoriales/develop-eclipse-plugin/
 http://wiki.bukkit.org/Plugin_Tutorial/es
+
+Simulador de autocompletar
+https://platform.netbeans.org/tutorials/nbm-code-completion.html
