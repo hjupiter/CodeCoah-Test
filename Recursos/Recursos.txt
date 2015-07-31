@@ -13,3 +13,12 @@ http://wiki.bukkit.org/Plugin_Tutorial/es
 
 Simulador de autocompletar
 https://platform.netbeans.org/tutorials/nbm-code-completion.html
+
+Spell checking algorithm
+http://codereview.stackexchange.com/questions/48908/java-implementation-of-spell-checking-algorithm
+http://introcs.cs.princeton.edu/java/44st/SpellChecker.java.html
+http://raelcunha.com/spell-correct.php
+https://bakedcircuits.wordpress.com/2013/08/10/simple-spell-checker-in-java/
+
+Java Compiler online
+http://www.innovation.ch/java/java_compile.html
