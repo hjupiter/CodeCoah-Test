@@ -22,3 +22,14 @@ https://bakedcircuits.wordpress.com/2013/08/10/simple-spell-checker-in-java/
 
 Java Compiler online
 http://www.innovation.ch/java/java_compile.html
+
+
+https://benkiew.wordpress.com/2012/12/28/netbeans-how-to-create-a-context-aware-action-with-an-icon-for-the-context-menu/
+
+https://openide.netbeans.org/proposals/actions/impl.html
+
+http://forums.netbeans.org/post-6445.html
+
+http://bits.netbeans.org/dev/javadoc/org-openide-actions/org/openide/actions/doc-files/api.html
+
+http://wiki.netbeans.org/DevFaqActionContextSensitive
